@@ -68,6 +68,7 @@ Refer to the Javadocs found in the plugin's distribution to learn more about the
 The following example is a reproduction of the basic [NetBeans app][2] available from Geotools' tutorials
 
 __SampleView.groovy__
+
         package sample
 
         import org.geotools.renderer.lite.StreamingRenderer
@@ -90,6 +91,7 @@ __SampleView.groovy__
         }
 
 __SampleController.groovy__
+
         package sample
 
         import griffon.transform.Threading
